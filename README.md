@@ -2,6 +2,8 @@
 
 *The ultimate height comparison chart for comparing heights of celebrities, anime characters, and more*
 
+![screenshot of compareheights](https://compareheights.org/assets/docs/user-guide/reorder.png)
+
 ## Introduction
 
 Height comparison has never been easier with our advanced online [height comparison](https://compareheights.org) tool. Whether you're curious about how your height stacks up against your favorite celebrities, need to visualize character heights for creative projects, or want to create engaging height comparison charts for educational purposes, our platform makes comparing heights simple and fun.
@@ -55,14 +57,22 @@ Access our height comparison tool from any device. Whether you're on desktop, ta
 ### Celebrity Height Comparisons
 One of the most popular applications involves comparing celebrity heights. Users love creating height comparison charts featuring their favorite actors, musicians, and public figures. These comparisons often reveal surprising height differences that aren't apparent in photos or movies.
 
+![https://compareheights.org/assets/blog/celeb-height-illusions_-expectation-vs-reality.png](https://compareheights.org/assets/blog/celeb-height-illusions_-expectation-vs-reality.png)
+
 ### Anime and Character Analysis
 Anime enthusiasts frequently use height comparison tools to visualize their favorite characters' heights. Creating height chart comparisons of anime characters helps fans better understand character designs and proportional relationships within series.
+
+![https://compareheights.org/assets/blog/fiction-vs-reality-who-is-taller-than-you-think.png](https://compareheights.org/assets/blog/fiction-vs-reality-who-is-taller-than-you-think.png)
 
 ### Educational Applications
 Teachers and educators utilize height comparison charts for STEM education, helping students understand concepts of scale, proportion, and measurement. These visual tools make abstract mathematical concepts more concrete and engaging.
 
+![https://compareheights.org/assets/blog/how-big-are-the-planets-really.png](https://compareheights.org/assets/blog/how-big-are-the-planets-really.png)
+
 ### Creative and Professional Projects
 Artists, writers, and game developers rely on height comparison tools to maintain consistency in their creative works. By visualizing character heights early in the design process, creators ensure proportional accuracy throughout their projects.
+
+![https://compareheights.org/assets/blog/tall-small-and-legendary-athletes-by-height.png](https://compareheights.org/assets/blog/tall-small-and-legendary-athletes-by-height.png)
 
 ## Frequently Asked Questions
 
